@@ -1,8 +1,13 @@
-Energy Management App for Small Businesses
+![Logo](https://c5gwmsmjx1.execute-api.us-east-1.amazonaws.com/prod/dados_processo_seletivo/logo_empresa/124918/logo-420x100px.png_name_20221121-18288-5b9rii.png)
 
-Description: An app for small businesses to monitor and optimize energy usage.
+# Power IQ
 
-Features:
+
+## About
+
+An app for small businesses to monitor and optimize energy usage.
+
+## Features:
 
 Energy Consumption Monitoring
 - Manual input or connectivity with smart meters to track consumption in real time.
@@ -34,13 +39,14 @@ Gamification and Goals
 - Encourage the entrepreneur to meet energy savings goals.
 Ex: "Reduce consumption by 10% this month and earn an energy efficiency seal."
 
-Impact: Improves the sustainability of local businesses and reduces expenses.
+## Impact
+Improves the sustainability of local businesses and reduces expenses.
 
-Target Audience:
+## Target Audience
 - Small and medium-sized entrepreneurs, such as store, restaurant, workshop, and office owners.
 - Businesses that want to reduce operating costs and adopt more sustainable practices.
 
-Benefits of the App:
+## Benefits
 
 For users:
 - Reduction in operating costs.
@@ -51,10 +57,4 @@ For the environment:
 - Lower demand for non-renewable energy.
 - Reduction of carbon emissions from the commercial sector.
 
-Monetization
-
-Free Plan: Basic access with manual monitoring and limited reporting.
-
-Premium Subscription:
-- Advanced features, such as integration with smart meters, investment simulation and personalized alerts.
-- Example: R$19.90/month per business.
+### Developed for the 4th semester of Software Engineering at FIAP

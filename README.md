@@ -1,7 +1,8 @@
+### Developed for the 4th semester of Software Engineering at FIAP
+
 ![Logo](https://c5gwmsmjx1.execute-api.us-east-1.amazonaws.com/prod/dados_processo_seletivo/logo_empresa/124918/logo-420x100px.png_name_20221121-18288-5b9rii.png)
 
 # Power IQ
-
 
 ## About
 
@@ -56,5 +57,3 @@ For users:
 For the environment:
 - Lower demand for non-renewable energy.
 - Reduction of carbon emissions from the commercial sector.
-
-### Developed for the 4th semester of Software Engineering at FIAP
